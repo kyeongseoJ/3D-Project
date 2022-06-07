@@ -248,26 +248,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 508032458}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: eb8afafbea353cd4aa01ad843caef728, type: 3}
+  m_Script: {fileID: 11500000, guid: 3a4953d7e683adb4a8e7350b97d00a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   walkspeed: 6
   runspeed: 12
-  applyspeed: 0
   crouchspeed: 3
   jumpForce: 4
-  isRun: 0
-  isGround: 0
-  isCrouch: 0
   crouchPosY: 0
-  originPosY: 0
-  applyCrouchPosY: 0
-  capsuleCollider: {fileID: 0}
   lookSensitivity: 2
   cameraRotationLimit: 45
-  currentCameraRotationX: 0
   theCamera: {fileID: 963194227}
-  myRigid: {fileID: 0}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
